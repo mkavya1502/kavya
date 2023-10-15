@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 30px;
+    color: black;
+}
+
+#bio {
+    padding: 20px;
+}
+
+#professional-image {
+    margin: 20px;
+    text-align: center;
+}
+
+#professional-image img {
+    max-width: 100%;
+}
+
+#education {
+    margin: 20px;
+}
